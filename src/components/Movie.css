@@ -8,11 +8,11 @@ body{
     /* height: 580px; */
     /* border: 2px solid black; */
 }
-.card-container:hover{
+/* .card-container:hover{
 
     position: relative;
     transform: scale(1.1);
-}
+} */
 
 .card-container{
     display: inline-block;
